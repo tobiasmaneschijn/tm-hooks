@@ -1,6 +1,4 @@
-
 import { useState, useEffect, useCallback } from 'react';
-
 
 const useBlockScrolling = (startPosition: 'top' | 'bottom' | 'none') => {
   const [isScrollingBlocked, setIsScrollingBlocked] = useState(false);
