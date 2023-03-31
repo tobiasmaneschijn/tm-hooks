@@ -1,6 +1,6 @@
 {
   "name": "tm-hooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of possibly useful React hooks that I use in my projects.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
